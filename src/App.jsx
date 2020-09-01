@@ -4,7 +4,6 @@ import { Router } from '@reach/router'
 import { GlobalStyle } from './styles/GlobalStyle'
 
 export const App = () => {
-
   return (
     <>
       <GlobalStyle />
